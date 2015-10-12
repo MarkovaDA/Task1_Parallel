@@ -1,0 +1,1 @@
+﻿Компиляция: gcc task1.c my_stack.c -o task1 -lpthread -std=gnu99
